@@ -1,3 +1,9 @@
+=head1 NOTICE
+
+PDL::FFTW3 is no longer maintained in this repository, and I<this> repository
+remains here for reference only. Development continues at
+L<https://github.com/PDLPorters/pdl-fftw3>.
+
 =head1 NAME
 
 PDL::FFTW3 - PDL interface to the Fastest Fourier Transform in the West v3
